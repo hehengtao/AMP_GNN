@@ -11,4 +11,4 @@ mainTestScript.py: Run this function to test the trained model
 Gen_dat.py: Generate the training and test data
 GAMPNet.py: Network structure
 
-Questions/suggestions/comments about OAMP-Net: hehengtao@seu.edu.cn
+Questions/suggestions/comments about OAMP-Net: eehthe@ust.hk / hehengtao137@163.com
